@@ -58,7 +58,7 @@ Probed 8 scenarios across 7 personas · 4 fired correctly · 3 correctly stayed 
 >
 > **"Polish this grader prompt I use to score my model outputs."** → deferred to write-judge-prompt. Judge prompts have their own failure modes; this skill knows what it isn't for.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
