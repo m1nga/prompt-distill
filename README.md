@@ -1,4 +1,4 @@
-# Turn a Rambling Draft Into a Clear Reusable Prompt
+# Prompt Cleaner — Turn Rambling Input into a Clear Reusable Prompt
 
 Turns a rambling, self-correcting, mixed-language draft into a prompt that says the same thing — shorter, not fancier.
 
