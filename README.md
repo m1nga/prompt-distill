@@ -68,3 +68,9 @@ cleanup. This checks instruction behavior, not human adoption or measured time s
 ## Author
 
 Built by [Ming](https://github.com/m1nga). The design notes above explain the real problem and tradeoffs that shaped this skill.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+A clear prompt is a starting point for making something. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=prompt-distill) to see shared work, or bring a tool, experiment or idea you developed from yours.
+<!-- sidecourt-referral:end -->
